@@ -18,7 +18,7 @@ const Hero = () => {
           </h1>
 
           <p className="py-5">
-            I am proficient in JavaScript, Node.js, React.js and CSS
+            I am proficient in Bootstrap, JavaScript, Node.js, React.js, Express.js and MongoDB
           </p>
 
           <div className="flex py-5 ">
